@@ -13,6 +13,8 @@ public class Test01SpringBootGitApplication {
 		ConfigurableApplicationContext ctx = SpringApplication.run(Test01SpringBootGitApplication.class, args);
 		ctx.close();
 		// Commeted code
+		
+		//changes for Bug 102
 	}
 
 }
