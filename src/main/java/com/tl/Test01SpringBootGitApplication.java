@@ -8,6 +8,7 @@ import ch.qos.logback.classic.joran.action.ConfigurationAction;
 
 @SpringBootApplication
 public class Test01SpringBootGitApplication {
+		String s="dilip";
 
 	public static void main(String[] args) {
 		ConfigurableApplicationContext ctx = SpringApplication.run(Test01SpringBootGitApplication.class, args);
