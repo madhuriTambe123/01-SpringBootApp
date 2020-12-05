@@ -15,6 +15,9 @@ public class Test01SpringBootGitApplication {
 		// Commeted code
 		
 		//changes for Bug 102
+
+
+		int i=100;//commented in develop code 
 	}
 
 }
